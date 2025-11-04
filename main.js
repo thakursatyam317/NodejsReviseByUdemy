@@ -1,3 +1,3 @@
 ////
-import conditioanl from './javaScript/conditional.js'
+import conditioanl from './javaScripts/conditional.js'
 console.log("Hi My name is Satyam Thakur");
